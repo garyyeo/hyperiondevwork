@@ -1,0 +1,5 @@
+BEGIN
+    PROMPT user to enter their name
+    SET name = user input
+    DISPLAY "Hello, " + name + "!"
+END
